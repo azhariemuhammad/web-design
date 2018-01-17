@@ -23,7 +23,8 @@ body {
   color: #81b442 !important;
 }
 .banner {
-  background-image: linear-gradient(rgba(38, 43, 50, 0.5), rgba(1, 14, 22, 0.5)), url(../assets/img/doctor.jpg);
+  background-image: linear-gradient(rgba(38, 43, 50, 0.5), rgba(1, 14, 22, 0.5)),
+  url('https://firebasestorage.googleapis.com/v0/b/vue-project-1a9b9.appspot.com/o/webdesign%2Fdoctor.jpg?alt=media&token=8f41a3a3-ce73-4000-ba0e-14f9c036bbd5');
   background-size: cover;
   height: 80vh;
   background-position: center;
@@ -79,7 +80,7 @@ font-size: 2.75rem;
 
 .demo-card-square>.mdl-card__title {
   color: #fff;
-  background: url('assets/img/lab.jpeg') bottom right 15% no-repeat #46B6AC;
+  background: url('https://firebasestorage.googleapis.com/v0/b/vue-project-1a9b9.appspot.com/o/webdesign%2Flab.jpeg?alt=media&token=60199055-5b1f-4538-bc75-75bf4c697cee') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 
